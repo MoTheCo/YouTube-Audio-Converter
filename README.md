@@ -227,6 +227,6 @@ Dieses Projekt wird „as is“ bereitgestellt. Prüfen Sie vor der Nutzung die 
 
 - `python3 -m venv .venv && source .venv/bin/activate`
 - `pip install -r requirements.txt`
-- `python main.py`
+- `streamlit run main.py`
 - Browser öffnen: http://localhost:8501
 - YouTube-URL einfügen und Anweisungen in der App folgen
