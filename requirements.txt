@@ -1,0 +1,4 @@
+streamlit==1.36.0
+yt-dlp==2025.01.12
+ffmpeg-python==0.2.0
+requests==2.32.3
